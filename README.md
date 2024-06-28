@@ -31,7 +31,7 @@ This is a Full Stack Food Delivery Web Application built using the MERN stack (M
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/food-delivery-app.git
+    git clone https://github.com/i-sayankh/food-delivery-app.git
     cd food-delivery-app
     ```
 
